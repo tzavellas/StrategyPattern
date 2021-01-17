@@ -1,2 +1,2 @@
-# duck
-C++ implementation of Chapter 1 Head First Design Patterns
+# StrategyPattern
+C++ implementation of Chapter 1 (strategy pattern) Head First Design Patterns
